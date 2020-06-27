@@ -8,6 +8,7 @@
     padding: 30px;
     background-color: rgb(250, 226, 226);
 }
+
 .wdt1 {
     width: 300px;
     height: 45px;
@@ -16,6 +17,7 @@
     border-width: 5px;
     border-radius: 15px;
 }
+
 .wdt2 {
     width: 300px;
     height: 40px;
@@ -23,9 +25,10 @@
     border: 2px solid rgb(247, 0, 255);
     border-width: 3px;
     border-radius: 15px;
-    background: linear-gradient(rgb(40, 241, 255),white,rgb(21, 186, 252) );
+    background: linear-gradient(rgb(40, 241, 255),white,rgb(21, 186, 252));
     outline: none;
 }
+
 .wdt3 {
     width: 72px;
     height: 40px;
@@ -33,7 +36,7 @@
     border: 2px solid rgb(247, 0, 255);
     border-width: 3px;
     border-radius: 35px;
-    background: linear-gradient(rgb(40, 241, 255),white,rgb(21, 186, 252) );
+    background: linear-gradient(rgb(40, 241, 255),white,rgb(21, 186, 252));
     outline: none;
 }
 .wdt7 {
